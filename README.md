@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./RSC.png)
+![](./FM-RSC.png)
 
 ### Links
 
