@@ -47,7 +47,7 @@ body {
 
 .your-result {
     font-size: 1.3rem;
-    padding: 10% 0;
+    padding: 8% 0;
     font-weight: 700;
 }
 
@@ -69,11 +69,12 @@ h1 {
 .great {
     font-size: 1.7rem;
     padding: 5% 0;
+    color: hsl(0, 0%, 95%);
 }
 
 .average {
     color: hsl(0, 0%, 80%);
-    padding: 0% 15%;
+    padding: 0% 20%;
     font-weight: 500;
     font-size: .9rem;
 }
@@ -165,8 +166,5 @@ btn:hover {
     flex-direction: column;
 }
 
-
-
- 
 }
 
